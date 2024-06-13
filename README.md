@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **e19100@eng.pdn.ac.lk**
 
-- ⚡ Fun fact **I think I'm talkative**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
