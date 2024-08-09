@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Smart Chessboard](https://github.com/Sahira100/e19-3yp-Smart-Chessboard)
 
-- 🌱 I’m currently learning **React, Express js**
+- 🌱 I’m currently learning **Flutter, Express js**
 
-- 💬 Ask me about **Web development, Game development**
+- 💬 Ask me about **Mobile development,Web development, Game development**
 
 - 📫 How to reach me **e19100@eng.pdn.ac.lk**
 
