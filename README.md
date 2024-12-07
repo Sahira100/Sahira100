@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahira Gihan</h1>
 <h3 align="center">A Dedicated Computer Engineering Undergraduate at University of Peradeniya</h3>
 
-- 🔭 I’m currently working on [Smart Chessboard](https://github.com/Sahira100/e19-3yp-Smart-Chessboard)
-
-- 🌱 I’m currently learning **Flutter, Express js**
+- 🌱 I’m currently learning **Flutter,React,Express js**
 
 - 💬 Ask me about **Mobile development,Web development, Game development**
 
